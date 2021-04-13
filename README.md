@@ -18,7 +18,9 @@ Langkah ke 5 menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribu
 ![Lab (5)](https://user-images.githubusercontent.com/56400200/114500313-f7e20180-9c51-11eb-81cb-e50fd8a5953a.PNG)
 Langkah ke 6 selanjutnya Membuat from, buat file baru dengan nama lab3_form.html seperti berikut ini.
 ![Lab 6](https://user-images.githubusercontent.com/56400200/114500534-6921b480-9c52-11eb-95fe-22d5135cab15.PNG)
-kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut. Refresh kembali dan lihat perubahannya di browser.
+kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut.dan tmbahan kodingan yang memilih ada perempuan kalo memang di butuhkan. Refresh kembali dan lihat perubahannya di browser.
 ![Lab 6 ke 2](https://user-images.githubusercontent.com/56400200/114501071-77240500-9c53-11eb-81ae-54b83f2d86af.PNG)
+![Lab 6 (1)](https://user-images.githubusercontent.com/56400200/114501672-a424e780-9c54-11eb-8209-096490958630.PNG)
+Langkah terakhir yang ke 7 yaitu selanjutmya menambahkan style pada form agar tampilan form lebih menarik, bisa di tambahkan css seperti berikut. dan refresh di browser lihat perubahan dan hasilnya.
 
 
