@@ -11,6 +11,7 @@ Langkah ke 3 yaitu selanjutnya membuat descripition list seperti berikut dan ref
 Langkah selanjutnya langkah ke 4 Membuat tabel dan membuat file baru dengan menamakan lab3_tabel.html seperti berikut ini.
 ![Lab 4](https://user-images.githubusercontent.com/56400200/114498904-36c28800-9c4f-11eb-8de3-9658facf36c1.PNG)
 kemudian tambahkan kode untuk membuat tabel sederhana bisa di lihat seperti di bawah ini. Dan kemudian refresh di browser lihat hasil dan perubahannya.
+![Lab 4](https://user-images.githubusercontent.com/56400200/114498904-36c28800-9c4f-11eb-8de3-9658facf36c1.PNG)
 
 
 Langkah ke 5 menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris secara vertikal dan colspan ntuk menggabungkan kolom secara horizontal. Refresh kembali dan lihat hasilnya di browser
