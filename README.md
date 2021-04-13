@@ -12,8 +12,7 @@ Langkah selanjutnya langkah ke 4 Membuat tabel dan membuat file baru dengan mena
 ![Lab 4](https://user-images.githubusercontent.com/56400200/114498904-36c28800-9c4f-11eb-8de3-9658facf36c1.PNG)
 kemudian tambahkan kode untuk membuat tabel sederhana bisa di lihat seperti di bawah ini. Dan kemudian refresh di browser lihat hasil dan perubahannya.
 ![Lab 4](https://user-images.githubusercontent.com/56400200/114498904-36c28800-9c4f-11eb-8de3-9658facf36c1.PNG)
-
-
+![Lab 4 (1)](https://user-images.githubusercontent.com/56400200/114499443-4bebe680-9c50-11eb-96af-c4a3f58975bd.PNG)
 Langkah ke 5 menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris secara vertikal dan colspan ntuk menggabungkan kolom secara horizontal. Refresh kembali dan lihat hasilnya di browser
 
 
