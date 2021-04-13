@@ -4,9 +4,7 @@ Pertama yaitu buka dan persiapkan VSCodenya, kemudian Buatlah folder baru dengan
 ![Lab (1)](https://user-images.githubusercontent.com/56400200/114494855-4047f200-9c47-11eb-8ef6-c31a4d5bb127.PNG)
 Langkah ke dua yaitu membuat order list kemudian tambahkan kode untuk membuat unordered list,setelah deklarasi ordered list pada section unordered seperti berikut, dan kemudian refresh kembali di browser lihat hasilnya.
 ![Lab 2](https://user-images.githubusercontent.com/56400200/114495498-5f934f00-9c48-11eb-9043-5154bf3dfc89.PNG)
-
-
-
+![Lab (2)](https://user-images.githubusercontent.com/56400200/114497193-c403dd80-9c4b-11eb-9b84-d40e470f8702.PNG)
 Langkah ke 3 yaitu selanjutnya membuat descripition list seperti berikut dan refresh kembali di browser bisa di lihat hasil dan perubahannya.
 
 
