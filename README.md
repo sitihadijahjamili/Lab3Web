@@ -7,7 +7,7 @@ Langkah ke dua yaitu membuat order list kemudian tambahkan kode untuk membuat un
 ![Lab (2)](https://user-images.githubusercontent.com/56400200/114497193-c403dd80-9c4b-11eb-9b84-d40e470f8702.PNG)
 Langkah ke 3 yaitu selanjutnya membuat descripition list seperti berikut dan refresh kembali di browser bisa di lihat hasil dan perubahannya.
 ![Lab 3](https://user-images.githubusercontent.com/56400200/114497336-1513d180-9c4c-11eb-9e2a-24e75843ac3f.PNG)
-
+![Lab (3)](https://user-images.githubusercontent.com/56400200/114497717-f104c000-9c4c-11eb-8b94-a17da2168258.PNG)
 Langkah selanjutnya langkah ke 4 Membuat tabel dan membuat file baru dengan menamakan lab3_tabel.html seperti berikut ini.
 
 kemudian tambahkan kode untuk membuat tabel sederhana bisa di lihat seperti di bawah ini. Dan kemudian refresh di browser lihat hasil dan perubahannya.
