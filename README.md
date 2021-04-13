@@ -17,6 +17,7 @@ Langkah ke 5 menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribu
 ![Lab 5](https://user-images.githubusercontent.com/56400200/114500083-991c8800-9c51-11eb-9a2e-f5b30a545cbb.PNG)
 ![Lab (5)](https://user-images.githubusercontent.com/56400200/114500313-f7e20180-9c51-11eb-81cb-e50fd8a5953a.PNG)
 Langkah ke 6 selanjutnya Membuat from, buat file baru dengan nama lab3_form.html seperti berikut ini.
+![Lab 6](https://user-images.githubusercontent.com/56400200/114500534-6921b480-9c52-11eb-95fe-22d5135cab15.PNG)
 kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut. Refresh kembali dan lihat perubahannya di browser.
 
 
