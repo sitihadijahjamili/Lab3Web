@@ -23,7 +23,5 @@ kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut.dan tmbaha
 ![Lab 6 (1)](https://user-images.githubusercontent.com/56400200/114501672-a424e780-9c54-11eb-8209-096490958630.PNG)
 Langkah terakhir yang ke 7 yaitu selanjutmya menambahkan style pada form agar tampilan form lebih menarik, bisa di tambahkan css seperti berikut. dan refresh di browser lihat perubahan dan hasilnya.
 ![Lab 7](https://user-images.githubusercontent.com/56400200/114502616-47c2c780-9c56-11eb-985d-c8f2c0153c20.PNG)
-
+![Lab 7 (1)](https://user-images.githubusercontent.com/56400200/114503524-a76da280-9c57-11eb-8944-3971b1bc11a3.PNG)
 Terimakasih mohon maaf bila ada kekurangannya.
-
-
